@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 header {
     background-color: darkred;
     color: white;
     text-align: center;
     padding: 20px;
     letter-spacing: 3px;
+=======
+header {
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    letter-spacing: 3px;
+>>>>>>> b84d1ce88627b97d67fc9319c79f8600eee5a9c2
 }
